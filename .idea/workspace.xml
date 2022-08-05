@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="47af895d-9b24-47f9-8802-c5b9f90fd24b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CharbelTabet-QuizzManager-fund-java-2022.iml" afterDir="false" />
+    <list default="true" id="47af895d-9b24-47f9-8802-c5b9f90fd24b" name="Changes" comment="Project Creation and Data model">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/epita/main/datamodel/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/epita/main/datamodel/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/epita/main/datamodel/MCQChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/epita/main/datamodel/MCQChoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/epita/main/datamodel/MCQQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/epita/main/datamodel/MCQQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/epita/main/datamodel/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/epita/main/datamodel/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/epita/main/datamodel/Quizz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/epita/main/datamodel/Quizz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/epita/main/datamodel/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/epita/main/datamodel/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CkyA7rD55M6ZxgAzM88GRHsZed" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/OneDrive - EPITA/S2 Common Core/Java_ThomasBroussard/Exam/Tabet-fund-java",
+    "last_opened_file_path": "C:/Users/User/Desktop/CharbelTabet-QuizzManager-fund-java-2022",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,8 +57,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659360737417</updated>
-      <workItem from="1659360741610" duration="383000" />
+      <workItem from="1659360741610" duration="2282000" />
+      <workItem from="1659691481340" duration="3190000" />
     </task>
+    <task id="LOCAL-00001" summary="Project Creation and Data model">
+      <created>1659361362043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659361362043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project Creation and Data model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Creation and Data model" />
   </component>
 </project>
