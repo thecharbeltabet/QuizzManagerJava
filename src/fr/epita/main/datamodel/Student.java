@@ -3,9 +3,9 @@ package fr.epita.main.datamodel;
 public class Student {
 
     private String name;
-    private String id;
+    private int id;
 
-    public Student(String name, String id) {
+    public Student(String name, int id) {
         this.name = name;
         this.id = id;
     }
@@ -14,7 +14,7 @@ public class Student {
         return name;
     }
 
-public String getId() {
+public int getId() {
         return id;
     }
 
@@ -22,8 +22,13 @@ public String getId() {
         this.name = name;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
+    public String toString() {
+        return "Student [name=" + name + ", id=" + id + "]";
+    }
 }
+
+
